@@ -1,0 +1,10 @@
+h1 {
+  color: Red;
+  align-content: center;
+  padding-left: 30%;
+}
+div {
+  color: blue;
+  position: relative;
+  align-content: center;
+}
